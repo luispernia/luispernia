@@ -5,9 +5,9 @@
 ### Full Stack Engineer | Cloud Native Practitioner
 *Valencia, Spain* 🇪🇸
 
-[![Website](https://img.shields.io/badge/Portfolio-luispernia.com-blue?style=for-the-badge&logo=safari)](https://luispernia.com)
+[![Website](https://img.shields.io/badge/Website-luispernia.com-blue?style=for-the-badge&logo=safari)](https://luispernia.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Pernía-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/luispernia)
-[![Email](https://img.shields.io/badge/Email-contact%40luispernia.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@luispernia.com)
+[![Email](https://img.shields.io/badge/Email-luispcode%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luispcode@gmail.com)
 
 ---
 
