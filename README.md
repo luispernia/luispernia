@@ -1,8 +1,7 @@
 <div align="center">
 
-**Full Stack Engineer | Cloud Native Practitioner**
-<br/>
-Valencia, Spain 🇪🇸
+### Full Stack Engineer | Cloud Native Practitioner
+*Valencia, Spain* 🇪🇸
 
 [Website](https://luispernia.com) • [LinkedIn](https://linkedin.com/in/luispernia) • [Email](mailto:luispcode@gmail.com)
 
