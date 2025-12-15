@@ -1,6 +1,5 @@
 <div align="center">
 
-# Luis Pernía
 **Full Stack Engineer | Cloud Native Practitioner**
 <br/>
 Valencia, Spain 🇪🇸
