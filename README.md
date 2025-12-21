@@ -1,6 +1,6 @@
 ### Hi, I'm Luis Pernia 👋 
 
-**Full Stack Engineer turning Cloud Native** *Based in Valencia, Spain*
+**Full Stack Engineer turning Cloud Native**
 
 <p align="left">
   <a href="https://luispernia.com"><b>🌐 Website</b></a> &nbsp;•&nbsp;
